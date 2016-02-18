@@ -5074,6 +5074,7 @@ return $ret;
 }
 }
 }
+<<<<<<< HEAD
 namespace Assetic
 {
 interface ValueSupplierInterface
@@ -5399,6 +5400,8 @@ return parent::getFilter($name);
 }
 }
 }
+=======
+>>>>>>> master
 namespace Monolog\Formatter
 {
 interface FormatterInterface
